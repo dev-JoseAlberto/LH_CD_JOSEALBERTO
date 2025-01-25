@@ -17,5 +17,5 @@ instruções nesse Link : https://code.visualstudio.com/docs/python/debugging
 7.Instando e usando arquivo requirements.txt
 python -m pip freeze > requirements.txt
 
-8.Instalando as bibliotecas necessárias pandas,seaborn,matplotlib,statsmodels,statstests, pingouin,pickle.
+8.Instalando as bibliotecas necessárias pandas,seaborn,matplotlib,statsmodels,statstests, pingouin,scikit-learn,pickle.
 
